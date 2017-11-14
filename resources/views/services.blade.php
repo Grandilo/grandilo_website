@@ -2,18 +2,18 @@
 @section('content')
 
 
-    <div id="breadcrumb">
+    <!--<div id="breadcrumb">
         <div class="container">
             <div class="breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li>Services</li>
             </div>
         </div>
-    </div>
+    </div>-->
     <div id="feature">
         <div class="container">
             <div class="row">
-                <div class="text-center">
+                <div class="text-center" style="margin-top: 20px">
                     <h3>Services</h3>
                     <p>At Grandilo we offer the following services.</p>
                 </div>
