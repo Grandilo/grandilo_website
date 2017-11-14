@@ -12,7 +12,7 @@
                                 <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li class="{{ Request::segment(1) === 'services' ? 'active' : null }}"><a
-                                            href="#fh5co-services-section">Our Services</a></li>
+                                            href="{{ url('services') }}">Our Services</a></li>
                                 <li class="{{ Request::segment(1) === 'digital-skills-training' ? 'active' : null }}"><a
                                             href="{{ url('digital-skills-training') }}">Trainings</a></li>
                             </ul>
@@ -34,10 +34,10 @@
                                             >Grandilo Volunteer Program</a>
                                 </li>
                                 <li class="{{ Request::segment(1) === 'internship' ? 'active' : null }}"><a
-                                            href="#">Blog</a></li>
+                                            href="{{ url('blog') }}">Blog</a></li>
                             </ul>
                         </li>
-                        <li class="cta"><a href="#">Hire top talent</a></li>
+                        <li class="cta"><a href="{{ url('hire_form') }}">Hire top talent</a></li>
                     </ul>
                 </nav>
             </div>

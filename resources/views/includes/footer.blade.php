@@ -6,7 +6,7 @@
 
             <p>Grandilo is an IT company that provide mobile and web solution for Business</p>
 
-            <p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">Contact Us <i
+            <p><a href="/contact" class="btn btn-primary btn-outline with-arrow btn-sm">Contact Us <i
                             class="icon-arrow-right"></i></a></p>
         </div>
         <div class="col-md-3 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
