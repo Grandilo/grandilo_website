@@ -23,8 +23,8 @@ Route::get('services', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-Route::get('portfolio', function () {
-    return view('portfolio');
+Route::get('clients', function () {
+    return view('clients');
 });
 Route::get('internship', function () {
     return view('internship');

@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-                        <b><h1 class="grandilo-color">Portfolio/Clients</h1></b>
+                        <b><h1 class="grandilo-color">Clients</h1></b>
                         <p>Here are some of our clients and works</p>
                     </div>
                 </div>
@@ -81,9 +81,7 @@
                         </a>
                     </div>
                     <div class="col-md-12 text-center animate-box">
-                        <p><a href="#"
-                              onclick="swal('Request via Email', 'Send us an email at info@grandilo.com');"
-                              class="btn btn-primary with-arrow">Schedule call <i class="icon-arrow-right"></i></a></p>
+                        <p><a href="http://www.calendly.com/icalistus" class="btn btn-primary with-arrow">Schedule call<i class="icon-arrow-right"></i></a></p>
                     </div>
                 </div>
             </div>
