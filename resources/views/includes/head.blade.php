@@ -35,6 +35,8 @@
 <link rel="stylesheet" type="text/css" href="{{asset('/css/animate.css')}}"/>
 <link rel="stylesheet" type="text/css" href="{{asset('/css/owl.theme.default.min.css')}}"/>
 
+<link rel="stylesheet" type="text/css" href="{{asset('/css/about.css')}}"/>
+
 <link rel="stylesheet" type="text/css" href="{{asset('/css/overwrite.css')}}"/>
 <link rel="stylesheet" type="text/css" href="{{asset('/css/style.css')}}"/>
 <link rel="stylesheet" type="text/css" href="{{asset('/css/hover.css')}}" media="all"/>

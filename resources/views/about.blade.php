@@ -64,8 +64,40 @@
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
+
+        <div class="col-md-12 wow fadeInDown">
+           <h2 class="grandilo-color">Our Staff information</h2>
+                                    <hr>
+
+                            <main class="mitgliederliste">
+                              
+                              <figure class="einzel"><img alt="CEO" src="images/ilo.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Ilo Calistus<br>
+                                  <span>CEO</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Chief server-side architect" src="images/uche.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Mamah Livinus<br>
+                                  <span>Chief server-side architect</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Mobile developerr" src="images/law.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Onah Lawrence<br>
+                                  <span>Mobile developer</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Web developer" src="images/excel.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Agwu Ajah Chukwu<br>
+                                  <span>Web developer</span></figcaption>
+                              </figure>
+                              
+                            </main>
+
+        </div>
+
+            </div>
+
     </div>
 
 @stop
