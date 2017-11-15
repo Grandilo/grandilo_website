@@ -14,8 +14,15 @@
         <div class="container">
             <div class="row">
                 <div class="text-center" style="margin-top: 20px">
-                    <h3>Services</h3>
-                    <p>At Grandilo we offer the following services.</p>
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                      <li class="nav-item">
+                        <a class="nav-link active" href="">Services</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="{{ url('digital-skills-training') }}">Trainings</a>
+                      </li>
+                    </ul>
+                    <p style="margin-top: 20px"><h3>At Grandilo we offer the following services.</h3></p>
                 </div>
                 <div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
                     <div class="text-center">

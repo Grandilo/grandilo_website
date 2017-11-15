@@ -4,15 +4,23 @@
         <div class="container">
             <div class="row text-center pad-row" >
                 <div class="col-md-12">
+
+                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                      <li class="nav-item">
+                        <a class="nav-link" href="{{ url('services') }}">Services</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link active" href="">Trainings</a>
+                      </li>
+                    </ul>
+
                     <article>
-                        <h1 style="color: #DD2C00">  Digital Skills Training sponsored by Google </h1>
+                        <h1 style="color: #DD2C00" style="margin-top: 20px">  Digital Skills Training sponsored by Google </h1>
                     </article>
-                    <h2 style="color: #ffffff "   class="head-main-text">
+                    <h2 class="head-main-text">
                         <div style="line-height: 200%">
                             Empower your team and become a professional on Digital skills.
-
                         </div>
-
                     </h2>
                     <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
                         <form class="form-inline">
