@@ -40,7 +40,7 @@
                 <div class="col-md-3 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
                     <div class="text-center">
                         <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/project_mangement.png" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+                            <img class="img-circle pulse" src="images/project_management.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
                             <h2>Project Management</h2>
                             <p>We see organizations through the initiation, planning, design, execution, monitoring, controlling and closure of a project. </p>
                         </div>
