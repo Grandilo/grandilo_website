@@ -3,7 +3,7 @@
 
     <hr>
     <div class="body-padding-top">
-        <div class="container">
+        <div class="container animate-box">
             <h1 class="grandilo-color" >Our company information</h1>
             <hr>
             <div class="col-md-7 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
