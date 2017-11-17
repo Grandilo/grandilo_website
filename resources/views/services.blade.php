@@ -1,28 +1,11 @@
 @extends('layouts.default')
 @section('content')
 
-
-    <!--<div id="breadcrumb">
-        <div class="container">
-            <div class="breadcrumb">
-                <li><a href="/">Home</a></li>
-                <li>Services</li>
-            </div>
-        </div>
-    </div>-->
     <div id="feature">
         <div class="container">
             <div class="row">
                 <div class="text-center" style="margin-top: 20px">
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                      <li class="nav-item">
-                        <a class="nav-link active" href="">Services</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="{{ url('digital-skills-training') }}">Trainings</a>
-                      </li>
-                    </ul>
-                    <p style="margin-top: 20px"><h3>At Grandilo we offer the following services.</h3></p>
+                    <p style="margin-top: 20px"><h3 style="color: #DD2C00">At Grandilo we offer the following services.</h3></p>
                 </div>
                 <div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
                     <div class="text-center">
