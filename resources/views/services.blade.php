@@ -1,66 +1,145 @@
 @extends('layouts.default')
 @section('content')
 
-    <div id="feature">
+    <div id="fh5co-services-section">
         <div class="container">
             <div class="row">
-                <div class="text-center" style="margin-top: 20px">
-                    <p style="margin-top: 20px"><h3 style="color: #DD2C00">At Grandilo we offer the following services.</h3></p>
+                <div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
+                    <h2>WHAT WE DO</h2>
+
+                    <p>We are almost everywhere and we provide the core services that takes your business to the next
+                        level</p>
                 </div>
-                <div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
-                    <div class="text-center">
-                        <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/web_design.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                            <h2>Web Application development
-                            </h2>
-                            <p>We have a team of highly skilled web developers who are conscious about app scalability, responsiveness and maintainability </p>
+            </div>
+            <div class="row">
+                <div class="col-md-4 animate-box">
+                    <div class="services">
+                        <i class="icon-laptop"></i>
+
+                        <div class="desc">
+                            <h3>Website development</h3>
+
+                            <p>Ranging from basic website to dynamic web applications for the automation of your daily
+                                business/office activities</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
-                    <div class="text-center">
-                        <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/mobile.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                            <h2>Mobile Application Development</h2>
-                            <p>Our mobile crew are well experienced, certified, tested and trusted</p>
+                <div class="col-md-4 animate-box">
+                    <div class="services">
+                        <i class="icon-mobile-phone"></i>
+
+                        <div class="desc">
+                            <h3>Mobile App Development</h3>
+
+                            <p>Develop mobile applications that are amazing, enhanting and simplifies your life; both
+                                for Android and ios platform.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
-                    <div class="text-center">
-                        <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/consulting.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                            <h2>IT consultancy</h2>
-                            <p>Do you need advise on how to use information technology in order to meet your business
-                                objectives or overcome problems? Then <a href="contact">contact us</a>  right away.<br>We work to improve the structure, efficiency and effectiveness of IT systems in various organisations
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
-                    <div class="text-center">
-                        <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/project_management.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                            <h2>Project Management</h2>
-                            <p>We see organizations through the initiation, planning, design, execution, monitoring, controlling and closure of a project. </p>
+                <div class="col-md-4 animate-box">
+                    <div class="services">
+                        <i class="icon-connectdevelop"></i>
+
+                        <div class="desc">
+                            <h3>Consultancy</h3>
+
+                            <p>We offer expert IT advice that will optimize your existing tech infrastructure</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="col-md-4 animate-box">
+                <div class="services">
+                    <i class="icon-train"></i>
 
-                <div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
-                    <div class="text-center">
-                        <div class="hi-icon-wrap hi-icon-effect">
-                            <img class="img-circle pulse" src="images/it_training.jpg" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-                            <h2>IT Trainings and workshops</h2>
-                            <p>
-                                We are always there to leverage our expertise to individuals and organizations via trainings and workshop
-                            </p>
+                    <div class="desc">
+                        <h3>Training</h3>
+
+                        <p>We train young and passionate folks that want to join in the trend of changing the world with
+                            Technology.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 animate-box">
+                <div class="services">
+                    <i class="icon-pie-chart"></i>
+
+                    <div class="desc">
+                        <h3>Project Management</h3>
+
+                        <p>We see organizations through the initiation, planning, design, execution, monitoring,
+                            controlling and closure of a project.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 animate-box">
+                <div class="services">
+                    <i class="icon-line-chart"></i>
+
+                    <div class="desc">
+                        <h3>Search Engine Optimization(SEO)</h3>
+
+                        <p>Helping your website to rank top in search results.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="fh5co-work-section" class="fh5co-light-grey-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
+                    <h2>Partners</h2>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="text-center">
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="300ms">
+                            <img class="img-circle pulse" src="images/google.jpg" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="600ms">
+                            <img class="img-circle pulse" src="images/numatville.jpg" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="300ms">
+                            <img class="img-circle pulse" src="images/famestar.png" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="600ms">
+                            <img class="img-circle pulse" src="images/fbstart.png" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="300ms">
+                            <img class="img-circle pulse" src="images/ampion.jpg" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
+                             data-wow-delay="600ms">
+                            <img class="img-circle pulse" src="images/anita.jpg" alt="Generic placeholder image"
+                                 style="width: 140px; height: 140px;">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 @stop
