@@ -70,7 +70,7 @@
            <h2 class="grandilo-color">Our Staff information</h2>
                                     <hr>
 
-                            <main class="mitgliederliste">
+                            <main class="col-md-12 wow fadeInDown">
                               
                               <figure class="einzel"><img alt="CEO" src="images/ilo.jpg" style="width: 250px; height: 225px;">
                                 <figcaption>Ilo Calistus<br>
