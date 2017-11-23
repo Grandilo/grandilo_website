@@ -1,0 +1,41 @@
+h2 {
+  text-align: center;
+}
+
+/*.box {
+  margin: 0 auto;
+  text-align: center;
+  width: 90%;
+}*/
+
+figure {
+  /*border: 5px solid #DADCDB;*/
+  margin: 10px 10px; 
+  padding: 0; 
+}
+
+figure.einzel {
+  display: inline-block;
+  position: relative;
+}
+
+figure img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+figcaption {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  font: 400 18px/26px  "Raleway", Arial, sans-serif; 
+  padding: .2em 0;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+
+figcaption span {
+  font-size: 14px;
+}
