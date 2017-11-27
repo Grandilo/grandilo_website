@@ -24,11 +24,11 @@
                                 </li>
                                 <br>
                                 <li class="{{ Request::segment(1) === 'internship' ? 'active' : null }}"><a
-                                            href="{{ url('blog') }}">Blog</a>
+                                            href="#">Blog</a>
                                 </li>
                             </ul>
                         </li>
-                        <li class="cta"><a href="{{ url('hire_form') }}">Hire top talent</a></li>
+                        <li class="cta"><a href="#">Hire top talent</a></li>
                     </ul>
                 </nav>
             </div>
