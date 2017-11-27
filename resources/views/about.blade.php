@@ -67,10 +67,10 @@
         </div>
 
         <div class="col-md-12 wow fadeInDown">
-           <h2 class="grandilo-color">Our Staff information</h2>
+           <h2 class="grandilo-color">Our Team</h2>
                                     <hr>
 
-                            <main class="mitgliederliste">
+                            <main class="col-md-12 animate-box">
                               
                               <figure class="einzel"><img alt="CEO" src="images/ilo.jpg" style="width: 250px; height: 225px;">
                                 <figcaption>Ilo Calistus<br>

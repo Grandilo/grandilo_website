@@ -4,16 +4,6 @@
         <div class="container">
             <div class="row text-center pad-row" >
                 <div class="col-md-12">
-
-                    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                      <li class="nav-item">
-                        <a class="nav-link" href="{{ url('services') }}">Services</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link active" href="">Trainings</a>
-                      </li>
-                    </ul>
-
                     <article>
                         <h1 style="color: #DD2C00" style="margin-top: 20px">  Digital Skills Training sponsored by Google </h1>
                     </article>

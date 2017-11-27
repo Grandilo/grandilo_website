@@ -60,9 +60,5 @@ Route::get('/clear-cache', function() {
 });
 
 
-Route::get('about', function () {
-    return view('about');
-});
-
 Route::get('home', 'HomeController@index');
 
