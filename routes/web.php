@@ -26,8 +26,8 @@ Route::get('/contact', function () {
 Route::get('clients', function () {
     return view('clients');
 });
-Route::get('internship', function () {
-    return view('internship');
+Route::get('fellowship', function () {
+    return view('fellowship');
 });
 Route::get('blog', function () {
     return view('blog');
@@ -43,7 +43,7 @@ Route::get('/zohoverify', function() {
   return File::get(public_path() . '/zohoverify/zohoverify.html');
   return File::get(public_path() . '/to new folder name/index.html');
 
-  
+
 });
 Route::get('pricing',function(){
     return view('pricing');
@@ -61,4 +61,3 @@ Route::get('/clear-cache', function() {
 
 
 Route::get('home', 'HomeController@index');
-

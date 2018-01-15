@@ -10,8 +10,8 @@ h2 {
 
 figure {
   /*border: 5px solid #DADCDB;*/
-  margin: 10px 10px; 
-  padding: 0; 
+  margin: 10px 10px;
+  padding: 0;
 }
 
 figure.einzel {
@@ -28,7 +28,7 @@ figure img {
 figcaption {
   background: rgba(0, 0, 0, 0.5);
   color: white;
-  font: 400 18px/26px  "Raleway", Arial, sans-serif; 
+  font: 400 18px/26px  "Raleway", Arial, sans-serif;
   padding: .2em 0;
   position: absolute;
   bottom: 0;

@@ -71,7 +71,7 @@
                                     <hr>
 
                             <main class="col-md-12 animate-box">
-                              
+
                               <figure class="einzel"><img alt="CEO" src="images/ilo.jpg" style="width: 250px; height: 225px;">
                                 <figcaption>Ilo Calistus<br>
                                   <span>CEO</span></figcaption>
@@ -80,6 +80,11 @@
                               <figure class="einzel"><img alt="Chief server-side architect" src="images/uche.jpg" style="width: 250px; height: 225px;">
                                 <figcaption>Mamah Livinus<br>
                                   <span>Chief server-side architect</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Project Coordinator" src="images/ify.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Ifeanyichukwu Nwabuokei<br>
+                                  <span>Project Coordinator</span></figcaption>
                               </figure>
 
                               <figure class="einzel"><img alt="Mobile developerr" src="images/law.jpg" style="width: 250px; height: 225px;">
@@ -91,7 +96,22 @@
                                 <figcaption>Agwu Ajah Chukwu<br>
                                   <span>Web developer</span></figcaption>
                               </figure>
-                              
+
+                              <figure class="einzel"><img alt="UX designer" src="images/somto.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>CHUKWUEMEKA SOMTO PROMISE<br>
+                                  <span>UX designer</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Web developer" src="images/sunday.jpeg" style="width: 250px; height: 225px;">
+                                <figcaption>Ugorji Sunday<br>
+                                  <span>Web developer</span></figcaption>
+                              </figure>
+
+                              <figure class="einzel"><img alt="Web developer" src="images/dominic.jpg" style="width: 250px; height: 225px;">
+                                <figcaption>Idagu Dominic<br>
+                                  <span>Web developer</span></figcaption>
+                              </figure>
+
                             </main>
 
         </div>

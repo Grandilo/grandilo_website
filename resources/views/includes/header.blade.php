@@ -2,7 +2,7 @@
     <header id="fh5co-header" role="banner">
         <div class="container">
             <div class="header-inner">
-                <img src="images/GRANDILO.png">
+                <img src="images/GRANDILO.png" height="50px" width="200px" style="margin-top:10px">
                 <nav role="navigation">
                     <ul class="nav navbar-nav">
                         <li class="{{ Request::segment(1) === 'index' ? 'active' : null }}"><a href="{{ url('/') }}">Home</a>
@@ -23,8 +23,8 @@
                                             >Career</a>
                                 </li>
                                 <br>
-                                <li class="{{ Request::segment(1) === 'internship' ? 'active' : null }}"><a
-                                            href="#">Blog</a>
+                                <li class="{{ Request::segment(1) === '' ? 'active' : null }}"><a
+                                            href="{{ url('fellowship') }}">Fellowship</a>
                                 </li>
                             </ul>
                         </li>
