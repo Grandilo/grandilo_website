@@ -107,7 +107,7 @@
                                   <span>Web developer</span></figcaption>
                               </figure>
 
-                              <figure class="einzel"><img alt="Web developer" src="images/dominic.jpg" style="width: 250px; height: 225px;">
+                              <figure class="einzel"><img alt="Web developer" src="images/dominic.jpeg" style="width: 250px; height: 225px;">
                                 <figcaption>Idagu Dominic<br>
                                   <span>Web developer</span></figcaption>
                               </figure>
