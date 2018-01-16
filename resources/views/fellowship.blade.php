@@ -30,7 +30,7 @@
                             <div style="line-height: 200%">
                               <p>Grandilo Technology is an IT Company that provides mobile and web solutions for Businesses.<br>
                                 Grandilo Fellows are given the platform to learn and build world class web/mobile applications in collaboration with our senior developers.
-                                This fellowship runs for a period of one year.<br>
+                                This fellowship runs for a period of 1 year.<br>
                                 Our fellowship can be competitive sometimes so only the top 10% are selected.
                                 </p>
                             </div>
