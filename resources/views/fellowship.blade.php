@@ -70,15 +70,15 @@
             <li>Familiar with Web technology or Mobile technologies.</li>
             <li>Programming experience in either Java, php or Javascript.</li>
             <li>Good communication skill</li>
+            <li>Have a strong passion for technology</li>
+            <li>This fellowship is not for students</li>
         </ul>
         <h2>Preferred requirements:</h2>
         <ul>
             <li>Development experience in a windows/Linux environment</li>
             <li>UI development experience with HTML,XML, CSS, JavaScript</li>
-            <li>Familiar with Laravel php framework</li>
-            <li>Familiar with Android material design</li>
-            <li>Have a strong passion for technology</li>
-            <li>This fellowship is not for students</li>
+            <li>Familiar with any web/mobile framework</li>
+
         </ul>
         <h2>Benefits:</h2>
         <ul>
