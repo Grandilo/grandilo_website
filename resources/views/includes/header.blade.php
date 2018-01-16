@@ -2,7 +2,7 @@
     <header id="fh5co-header" role="banner">
         <div class="container">
             <div class="header-inner">
-                <a href="{{ url('/') }}"><img src="images/GRANDILO.png" height="50px" width="200px" style="margin-top:20px"></a>
+                <a href="{{ url('/') }}"><img src="images/GRANDILO.png" height="50px" width="200px" style="margin-top:10px"></a>
                 <nav role="navigation">
                     <ul class="nav navbar-nav">
                         <li class="{{ Request::segment(1) === 'index' ? 'active' : null }}"><a href="{{ url('/') }}">Home</a>
