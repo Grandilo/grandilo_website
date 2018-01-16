@@ -78,9 +78,12 @@
             <li>Familiar with Android material design</li>
         </ul>
 		<h2>Benefits:</h2>
-		<p>Fellow would earn basic stipends. The stipend will serve as a form of support to help in the learning phase.
-
-        <h4>Application closes 23rd January, 2018</h4>
+		<ul>
+            <li>Paid training program after the second month of the training.</li>
+            <li>Receive at least 1000 hours of hands-on training</li>
+            <li>Professional development and coaching to ensure that you evolve with Developers with maximum potential for long term success</li>
+        </ul>
+        <h4><b>Application closes 23rd January, 2018.</b></h4>
         <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
             <form class="form-inline">
                 <div class="form-group">
