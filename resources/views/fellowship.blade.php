@@ -87,7 +87,7 @@
             <li>Opportunity to work with small medium and big enterprises both local and abroad</li>
             <li>Opportunity to work along-side with the finest of African developer</li>
         </ul>
-        <h4><b>Application closes 26th January, 2018</b></h4>
+        <h4><b>Application closing now closes on 2nd February, 2018.</b></h4>
         <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
             <form class="form-inline">
                 <div class="form-group">
