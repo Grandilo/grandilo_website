@@ -41,7 +41,7 @@
                         <form class="form-inline">
                             <div class="form-group">
 
-                                <a target="_blank"  href="https://goo.gl/bG1uQe" type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" >Apply Now!</a>
+                                <!-- <a target="_blank"  href="https://goo.gl/bG1uQe" type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" >Apply Now!</a> -->
 
 
                             </div>
@@ -87,11 +87,11 @@
             <li>Opportunity to work with small medium and big enterprises both local and abroad</li>
             <li>Opportunity to work along-side with the finest of African developer</li>
         </ul>
-        <h4><b>Application now closes on 2nd February, 2018.</b></h4>
+        <h4><b>Application Closed on 2nd February, 2018.</b></h4>
         <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
             <form class="form-inline">
                 <div class="form-group">
-                    <a target="_blank"  href="https://goo.gl/bG1uQe" role="button" type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" >Apply Now!</a>
+                    <!-- <a target="_blank"  href="https://goo.gl/bG1uQe" role="button" type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" >Apply Now!</a> -->
                 </div>
             </form>
         </div>
