@@ -164,7 +164,7 @@
                     <div class="col-md-2">
                         <div class="hi-icon-wrap hi-icon-effect wow fadeInDown" data-wow-duration="1000ms"
                              data-wow-delay="600ms">
-                            <img class="img-circle pulse" src="images/fbstart.png" alt="Generic placeholder image"
+                            <img class="img-circle pulse" src="images/FbStart.png" alt="Generic placeholder image"
                                  style="width: 140px; height: 140px;">
                         </div>
                     </div>
